@@ -12,7 +12,7 @@
 
 ##  安装教程
 
-- git clone https://gitee.com/lilinfeng1220/vue_brigade_wedding.git
+- git clone https://github.com/fpx2019/WebsiteReconstruction.git
 
   - npm install
 
